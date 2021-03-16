@@ -1,0 +1,14 @@
+h1{
+  font-size: xx-large;
+  font-style: oblique;
+  text-align: start;
+  color: azure;
+}
+body{
+    background-color: cadetblue;
+}
+img{
+    padding: auto;
+    width: 30%;
+    height: 10%;
+}
