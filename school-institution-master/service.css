@@ -1,0 +1,136 @@
+h1{
+  font-size: xx-large;
+  font-style: oblique;
+  text-align: start;
+  color: azure;
+}
+body{
+    background-color: green;
+}
+img{
+    padding: auto;
+    width: 45%;
+    height: 300px;;
+}
+nav ul li a:hover{
+    text-align: center;
+    font-family:'Times New Roman';
+    color: red;
+    text-decoration: none;
+    height: 60px;
+    
+}
+.info{
+    font-size: large;
+    color: blanchedalmond;
+    font-weight: 100px;
+}
+#more{
+text-align: left;
+text-overflow: clip;
+overflow: auto;
+white-space:pre-line;
+}
+h3{
+ color: ghostwhite;
+ font-size: x-large;
+}
+#text{
+    text-align: left;
+    text-overflow: clip;
+    overflow: auto;
+    white-space:pre-line; 
+}
+.lab{
+    padding: 10px;
+  width:25%;
+  height: 11%;
+}
+.pic{
+    padding: 5px;
+    width:20% ;
+    height: fit-content;
+}* {    
+    box-sizing: border-box;    
+  }    
+      
+  input[type=text], select, textarea {    
+    width: 100%;    
+    padding: 12px;    
+    border: 1px solid rgb(70, 68, 68);    
+    border-radius: 4px;    
+    resize: vertical;    
+  }    
+  input[type=email], select, textarea {    
+    width: 100%;    
+    padding: 12px;    
+    border: 1px solid rgb(70, 68, 68);    
+    border-radius: 4px;    
+    resize: vertical;    
+  }    
+      
+  label {    
+    padding: 12px 12px 12px 0;    
+    display: inline-block;    
+  }    
+      
+  input[type=submit] {    
+    background-color: rgb(37, 116, 161);    
+    color:white;    
+    padding: 12px 20px;    
+    border: none;    
+    border-radius: 4px;    
+    cursor: pointer;    
+    float: right;    
+  }    
+      
+  input[type=submit]:hover {    
+    background-color: #45a049;    
+  }    
+      
+  .container {    
+    border-radius: 5px;   
+    padding: 20px;  
+  }    
+      
+  .col-25 {    
+    float: left;    
+    width: 25%;    
+    margin-top: 6px;    
+  }    
+      
+  .col-75 {    
+    float: left;    
+    width: 75%;    
+    margin-top: 6px;    
+  }    
+      
+  /* Clear floats after the columns */    
+  .row:after {    
+    content: "";    
+    display: table;    
+    clear: both;    
+  }  
+  #students{
+      list-style: none;
+      padding: 0%;
+      margin: 0%; 
+      background-color: ivory; 
+      height: 60px;
+      text-align: center;
+      text-overflow: unset;
+  } 
+  nav ul li{
+   display: inline;
+   padding: 5px;
+   margin-left: 10px;
+  } 
+nav ul li a{
+    text-decoration: none;
+} 
+nav{
+    height: 60px;
+    text-align: center;
+    margin-top: 0px;
+    float: none;
+}  
