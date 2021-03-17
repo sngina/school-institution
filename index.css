@@ -1,8 +1,22 @@
+<<<<<<< HEAD
 body{
     width:100% ;
     color: black;
     background-color: #c4c4c4;
     
+=======
+h1{
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+}
+img{
+width: 600px;
+height: 500px;
+}
+body{
+    background-color:#c4c4c4;
+>>>>>>> 21542f9e2f8d5fca0acaf5a63bc7bb62e39d56bb
 }
 #elementary{
     background-image: url("./school.jpg");
@@ -61,4 +75,8 @@ img{
  }
  
 
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 21542f9e2f8d5fca0acaf5a63bc7bb62e39d56bb
