@@ -1,0 +1,69 @@
+body{
+    background-color: green;
+}
+.navbar{
+    /* max-width: 960px; */
+    background-color:ivory;
+    color: black;
+    width: 100%;
+    height: 60px;
+    box-decoration-break: slice;
+    text-align: center;
+    margin-top: 0%;
+
+}
+.navbar ul{
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.navbar ul li{
+    display: inline;
+}
+.navbar a{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: medium;
+    padding-left: 15px;
+}
+li{
+    text-decoration: none;
+    text-align: center;
+    padding-left: 30px;
+    margin-left: 20px;
+}
+a:hover{
+    color: blueviolet;
+}
+.Main form{
+    padding: 10px;
+}
+.Form1{
+    padding-bottom: 20px;
+    padding-left: zero;
+    font-size: x-large;
+}
+.Form2{
+    padding-bottom: 20px;
+    font-size:x-large;
+
+}
+.Form3{
+    padding:8px;
+    font-size: x-large;
+}
+.email{
+margin: 20px;
+}
+
+.main{
+    padding-left: 30%;
+    padding-top: 3%;
+    align-items:left;
+}
+
+footer{
+    margin-top: 5%;
+}
+
+
